@@ -1,6 +1,6 @@
 let accessToken;
 const clientID = '0ba437534c6b40dbbf11a0dd8eafd6ac';
-const redirectURI = 'http://localhost:3000/';
+const redirectURI = 'ongaku-v2.netlify.app'; //'http://localhost:3000/';
 
 
 const Spotify = {
