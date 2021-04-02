@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c4d345e7-77a9-4892-8639-9877bd69ce69/deploy-status)](https://app.netlify.com/sites/ongaku-v2/deploys)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
