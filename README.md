@@ -6,7 +6,7 @@ Ongaku is a web app, built with React and deployed with Netlify, that allows use
 ###### View project live:
 [https://ongaku-v2.netlify.app](https://ongaku-v2.netlify.app)
 
-Netlify Deploy Status:
+###### Netlify Deploy Status:
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c4d345e7-77a9-4892-8639-9877bd69ce69/deploy-status)](https://app.netlify.com/sites/ongaku-v2/deploys)
 ---
 
