@@ -3,7 +3,7 @@
 ###### About:
 Ongaku is a web app, built with React and deployed with Netlify, that allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account.  This was built as a capstone project for Codecademy's Full Stack Engineer course.  
 
-View project live:
+###### View project live:
 [https://ongaku-v2.netlify.app](https://ongaku-v2.netlify.app)
 
 Netlify Deploy Status:
